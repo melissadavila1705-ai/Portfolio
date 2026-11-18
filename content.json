@@ -1,0 +1,1197 @@
+{
+ "site": {
+  "first": "Melissa",
+  "last": "Dávila",
+  "role": "Content Marketing Manager & Brand Creative",
+  "based": "Quito, Ecuador",
+  "experience": "Experience in the United Kingdom, USA & South America",
+  "langs": "Native in English & Spanish",
+  "intro": "I build brands people actually follow. From the strategy and the story to the design, the ads, the customer journey and the numbers that prove it worked. Creative eye, commercial head.",
+  "hero": "img/photo-33.webp",
+  "email": "melissadavila1705@gmail.com",
+  "whatsapp": "+44 7534 142866",
+  "whatsappLink": "https://wa.me/447534142866",
+  "updated": "Stats updated September 2026"
+ },
+ "headline": [
+  {
+   "from": "7.2K",
+   "v": 40.3,
+   "s": "K",
+   "d": 1,
+   "l": "+460% increase in Instagram followers since October 2024"
+  },
+  {
+   "v": 14.5,
+   "s": "%",
+   "d": 1,
+   "l": "engagement rate, vs 3–6% industry average"
+  },
+  {
+   "v": 2.09,
+   "s": "%",
+   "d": 2,
+   "l": "click-through rate, vs 0.5–1.5% industry average"
+  },
+  {
+   "v": 6.5,
+   "s": "M",
+   "d": 1,
+   "l": "content views"
+  }
+ ],
+ "brands": [
+  {
+   "name": "PANGAIA",
+   "logo": ""
+  },
+  {
+   "name": "Joe & The Juice",
+   "logo": ""
+  },
+  {
+   "name": "Coca-Cola",
+   "logo": ""
+  },
+  {
+   "name": "FC Barcelona",
+   "logo": ""
+  },
+  {
+   "name": "Aphlora",
+   "logo": ""
+  },
+  {
+   "name": "Moonbug",
+   "logo": ""
+  },
+  {
+   "name": "Oddbods",
+   "logo": ""
+  },
+  {
+   "name": "Minibods",
+   "logo": ""
+  },
+  {
+   "name": "The Hit Club",
+   "logo": ""
+  }
+ ],
+ "skills": [
+  "Content Strategy, Copywriting & Creative Direction",
+  "Social Media & Community Management",
+  "Graphic Design & Short-Form Video Editing",
+  "Meta Ads, Campaign Optimization & Reporting",
+  "Shopify, Ecommerce Operations & Sales Analytics",
+  "CRM, Customer Journeys & Marketing Automations",
+  "UGC, Influencer Marketing & Brand Partnerships"
+ ],
+ "tools": [
+  [
+   "Design & video",
+   [
+    "Adobe Creative Suite (Photoshop, Illustrator, InDesign)",
+    "Canva",
+    "CapCut",
+    "DaVinci Resolve"
+   ]
+  ],
+  [
+   "Social & paid",
+   [
+    "Instagram",
+    "TikTok",
+    "Meta Ads",
+    "ManyChat"
+   ]
+  ],
+  [
+   "Ecommerce & CRM",
+   [
+    "Shopify",
+    "Klaviyo",
+    "HubSpot",
+    "Loop Subscriptions"
+   ]
+  ],
+  [
+   "AI",
+   [
+    "Claude",
+    "ChatGPT",
+    "Gemini"
+   ]
+  ]
+ ],
+ "about": {
+  "image": "img/about-melissa.webp",
+  "text": "First-Class Honours in Graphic Communication & Illustration from Loughborough University. Then London, designing for PANGAIA and running social for Moonbug’s Oddbods, before coming home to lead content and digital marketing for Aphlora Wellness. I sit where creative meets commercial: I’ll design the post, write the caption, run the ad and read the numbers after.",
+  "facts": [
+   [
+    "Education",
+    "Loughborough University, First-Class Honours"
+   ],
+   [
+    "Based",
+    "Quito, Ecuador (open to relocate for the right position)"
+   ],
+   [
+    "Citizenship",
+    "British (right to work in the UK) & Ecuadorian"
+   ],
+   [
+    "Languages",
+    "English & Spanish, native in both"
+   ],
+   [
+    "Industries",
+    "Wellness, femtech, beauty, lifestyle"
+   ]
+  ]
+ },
+ "work": [
+  {
+   "id": "aphlora",
+   "title": "Aphlora Wellness",
+   "role": "Marketing Content Manager",
+   "where": "Quito & U.S.",
+   "tags": [
+    "Strategy",
+    "Social",
+    "Paid",
+    "Ecommerce",
+    "UGC",
+    "Customer retention",
+    "Design"
+   ],
+   "cover": "img/content-00.webp",
+   "bg": "#e9e4da",
+   "ink": "#3b2f25",
+   "summary": "Female wellness brand focused on hormonal health. I lead content and digital marketing end to end, in Ecuador and the U.S.",
+   "highlight": "From 7.2K to 40.3K followers since I took over the account in October 2024.",
+   "overview": "As Marketing Content Manager at Aphlora Wellness, I lead the brand’s content and digital marketing end to end: social media strategy, UGC production, copywriting, graphic design, email marketing and paid campaigns, plus our Ecuadorian and U.S. websites. I’m hands-on across Instagram, TikTok, Meta Ads, Shopify, ManyChat and Klaviyo, creating content with Adobe Creative Suite, Canva and CapCut. I also support e-commerce operations, customer experience, automations and our 3PL integration, combining creative instinct with performance insight to grow an engaged wellness community and drive direct-to-consumer sales.",
+   "stats": [
+    {
+     "v": 40.3,
+     "s": "K",
+     "d": 1,
+     "l": "Instagram following"
+    },
+    {
+     "v": 5.1,
+     "s": "K",
+     "d": 1,
+     "l": "TikTok following"
+    },
+    {
+     "v": 2.4,
+     "s": "K",
+     "d": 1,
+     "l": "Newsletter & IG channel subscribers"
+    },
+    {
+     "v": 6.5,
+     "s": "M",
+     "d": 1,
+     "l": "Content views"
+    }
+   ],
+   "kpis": [
+    {
+     "v": 14.5,
+     "s": "%",
+     "d": 1,
+     "l": "Engagement rate",
+     "n": "vs 3–6% industry average. More than 10 points above benchmark."
+    },
+    {
+     "v": 2.09,
+     "s": "%",
+     "d": 2,
+     "l": "Click-through rate",
+     "n": "vs 0.5–1.5% industry average."
+    },
+    {
+     "v": 1620,
+     "p": "+",
+     "l": "Followers per month",
+     "n": "Average monthly growth in audience size."
+    }
+   ],
+   "groups": [
+    {
+     "t": "Meta · 12 months (2025)",
+     "i": [
+      [
+       "4.1M+",
+       "Content views"
+      ],
+      [
+       "1.7M+",
+       "Reach"
+      ],
+      [
+       "260K",
+       "Interactions"
+      ],
+      [
+       "190.8K",
+       "Profile views"
+      ],
+      [
+       "37.5K",
+       "Link clicks"
+      ]
+     ]
+    },
+    {
+     "t": "TikTok",
+     "i": [
+      [
+       "1.1M+",
+       "Content views"
+      ],
+      [
+       "11K",
+       "Profile views"
+      ],
+      [
+       "20K",
+       "Likes"
+      ],
+      [
+       "375",
+       "Comments"
+      ],
+      [
+       "3.6K",
+       "Shares"
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "t": "The account today",
+     "layout": "igphone",
+     "img": "img/aph-ig-feed.webp",
+     "link": [
+      "Open on Instagram",
+      "https://www.instagram.com/aphlora.wellness/"
+     ],
+     "kpis": [
+      {
+       "v": 14.5,
+       "s": "%",
+       "d": 1,
+       "l": "Engagement rate",
+       "n": "vs 3–6% industry average. More than 10 points above benchmark."
+      },
+      {
+       "v": 2.09,
+       "s": "%",
+       "d": 2,
+       "l": "Click-through rate",
+       "n": "vs 0.5–1.5% industry average."
+      },
+      {
+       "v": 1620,
+       "p": "+",
+       "l": "Followers per month",
+       "n": "Average monthly growth in audience size."
+      }
+     ]
+    },
+    {
+     "t": "Viral content",
+     "layout": "viral",
+     "video": {
+      "video": "vid/aph-viral.mp4",
+      "poster": "vid/aph-viral.jpg",
+      "cap": ""
+     },
+     "metrics": [
+      [
+       "Views",
+       1853639
+      ],
+      [
+       "Reach",
+       1361833
+      ],
+      [
+       "Interactions",
+       163458
+      ],
+      [
+       "Watch time",
+       "283 days"
+      ]
+     ],
+     "inter": [
+      [
+       "Likes",
+       72613
+      ],
+      [
+       "Shares",
+       52919
+      ],
+      [
+       "Saves",
+       37611
+      ],
+      [
+       "Comments",
+       315
+      ]
+     ],
+     "nonf": 98
+    },
+    {
+     "t": "Top performing reels",
+     "text": "The most-watched reels on @aphlora.wellness right now. Tap any to watch it on Instagram.",
+     "layout": "covers",
+     "items": [
+      {
+       "src": "img/aph-new1.webp",
+       "cap": "34.3K",
+       "title": "Anti-inflammatory drink",
+       "link": "https://www.instagram.com/reel/DdaEmsCB3zv/"
+      },
+      {
+       "src": "img/aph-new2.webp",
+       "cap": "7.9K",
+       "title": "Polyester 101",
+       "link": "https://www.instagram.com/reel/DTOomJkDmhq/"
+      },
+      {
+       "src": "img/aph-new3.webp",
+       "cap": "7.5K",
+       "title": "Endometriosis awareness",
+       "link": "https://www.instagram.com/reel/DdAS9JfhxTr/"
+      },
+      {
+       "src": "img/aph-new4.webp",
+       "cap": "6.6K",
+       "title": "Cycle-friendly recipe",
+       "link": "https://www.instagram.com/reel/DeaZDRxh_9c/"
+      },
+      {
+       "src": "img/aph-new5.webp",
+       "cap": "6.2K",
+       "title": "Dates for every cycle phase",
+       "link": "https://www.instagram.com/reel/DN6qASFOoKC/"
+      },
+      {
+       "src": "img/aph-new6.webp",
+       "cap": "6.1K",
+       "title": "Reverse osmosis",
+       "link": "https://www.instagram.com/reel/DWPrEIVjk1N/"
+      },
+      {
+       "src": "img/aph-new7.webp",
+       "cap": "3.3K",
+       "title": "My endo story",
+       "link": "https://www.instagram.com/reel/DfGPIPlvLCR/"
+      }
+     ]
+    },
+    {
+     "t": "Top performing carousels",
+     "layout": "carousels",
+     "items": [
+      {
+       "src": "img/aph-car1.webp",
+       "views": "325.1K",
+       "likes": "16K",
+       "title": "My ovulation isn’t just for babies",
+       "link": "https://www.instagram.com/p/DfDpuI8GLwB/",
+       "date": "Oct 2026"
+      },
+      {
+       "src": "img/aph-car2.webp",
+       "views": "75K",
+       "likes": "2,482",
+       "title": "Living with endometriosis",
+       "link": "https://www.instagram.com/p/DccQ6qJjECW/",
+       "date": "Aug 2026"
+      },
+      {
+       "src": "img/aph-car-anti.webp",
+       "views": "27.4K",
+       "likes": "256",
+       "title": "Birth control and induced bleeding",
+       "link": "https://www.instagram.com/p/Dfigb8AmPHc/",
+       "date": "Nov 2026"
+      },
+      {
+       "src": "img/aph-car3.webp",
+       "views": "25.9K",
+       "likes": "923",
+       "title": "If only more women knew",
+       "link": "https://www.instagram.com/p/DdpebB5jmSZ/",
+       "date": "Sep 2026"
+      },
+      {
+       "src": "img/aph-car-endo2.webp",
+       "views": "22K",
+       "likes": "290",
+       "title": "7 signs of endometriosis",
+       "link": "https://www.instagram.com/p/Df3KNQDmCWd/",
+       "date": "Nov 2026 · posted today"
+      },
+      {
+       "src": "img/aph-car4.webp",
+       "views": "21.5K",
+       "likes": "551",
+       "title": "24 hours vs 28 days",
+       "link": "https://www.instagram.com/p/DbUKHwMGCwd/",
+       "date": "Jul 2026"
+      },
+      {
+       "src": "img/aph-car-habits.webp",
+       "views": "6.9K",
+       "likes": "127",
+       "title": "The habits that changed my hormones",
+       "link": "https://www.instagram.com/p/DfnqlBcGWpW/",
+       "date": "Nov 2026"
+      }
+     ]
+    },
+    {
+     "t": "UGC, influencers & collaborations",
+     "layout": "reels",
+     "items": [
+      {
+       "video": "vid/aph-ugc1.mp4",
+       "poster": "vid/aph-ugc1.jpg",
+       "cap": "206.4K views"
+      },
+      {
+       "video": "vid/aph-ugc2.mp4",
+       "poster": "vid/aph-ugc2.jpg",
+       "cap": "100.5K views"
+      },
+      {
+       "video": "vid/aph-ugc3.mp4",
+       "poster": "vid/aph-ugc3.jpg",
+       "cap": "23.5K views"
+      },
+      {
+       "video": "vid/aph-ugc5.mp4",
+       "poster": "vid/aph-ugc5.jpg",
+       "cap": "6.2K views"
+      },
+      {
+       "video": "vid/aph-ugc4.mp4",
+       "poster": "vid/aph-ugc4.jpg",
+       "cap": "5.1K views"
+      },
+      {
+       "video": "vid/aph-ugc6.mp4",
+       "poster": "vid/aph-ugc6.jpg",
+       "cap": "5K views"
+      }
+     ],
+     "chips": [
+      "@cayetanoymonica",
+      "@rosaprimaec",
+      "@winelabec",
+      "@isaboleta",
+      "@andreagudelo",
+      "@mandalasparaelalma",
+      "@themproject___",
+      "@pezbela",
+      "@bernardita_bartendence",
+      "@dklistos.ec",
+      "@isareikii",
+      "@nanaecheverri",
+      "@olgafish",
+      "@rosannaqueirolo",
+      "@joaquinzevallosm",
+      "@dra.alegriadavalos",
+      "@oncebycarmenmaria"
+     ]
+    },
+    {
+     "t": "Event production & organisation",
+     "layout": "reels",
+     "items": [
+      {
+       "video": "vid/aph-event1.mp4",
+       "poster": "vid/aph-event1.jpg",
+       "cap": "46K views"
+      },
+      {
+       "video": "vid/aph-event2.mp4",
+       "poster": "vid/aph-event2.jpg",
+       "cap": "5K views"
+      }
+     ]
+    },
+    {
+     "t": "More reels",
+     "layout": "strip",
+     "items": [
+      "vid/aph-ugc1.jpg",
+      "img/aph-new3.webp",
+      "vid/aph-event1.jpg",
+      "img/aph-new2.webp",
+      "vid/aph-ugc2.jpg",
+      "img/aph-new5.webp",
+      "vid/aph-ugc4.jpg",
+      "img/aph-new1.webp",
+      "vid/aph-event2.jpg",
+      "img/aph-new6.webp",
+      "vid/aph-ugc3.jpg",
+      "img/aph-new4.webp",
+      "vid/aph-ugc5.jpg",
+      "vid/aph-viral.jpg",
+      "vid/aph-ugc6.jpg"
+     ],
+     "link": [
+      "See all reels",
+      "https://www.instagram.com/aphlora.wellness/reels/"
+     ]
+    },
+    {
+     "t": "U.S. expansion",
+     "text": "I played a key role in Aphlora’s U.S. launch, creatively and operationally. I helped build and manage the U.S. Shopify store, developed its visual identity and digital assets, and supported the full e-commerce journey: product listings, customer experience, order management, subscriptions, inventory coordination and fulfillment through our U.S. 3PL.",
+     "layout": "laptop",
+     "video": {
+      "video": "vid/aph-us.mp4",
+      "poster": "vid/aph-us.jpg",
+      "cap": ""
+     }
+    },
+    {
+     "t": "Packaging design",
+     "layout": "pack",
+     "items": [
+      "img/aphlora-32.webp",
+      "img/aphlora-29.webp",
+      "img/aphlora-34.webp"
+     ]
+    }
+   ],
+   "link": [
+    "@aphlora.wellness",
+    "https://www.instagram.com/aphlora.wellness/"
+   ],
+   "years": "2024 – current",
+   "growth": {
+    "from": 7.2,
+    "to": 40.3,
+    "s": "K",
+    "fromLabel": "Oct 2024 · when I took over",
+    "toLabel": "Nov 2026 · today",
+    "pct": 460,
+    "label": "Instagram follower growth"
+   }
+  },
+  {
+   "id": "hit-club",
+   "title": "The Hit Club",
+   "role": "Social Media & Graphic Design",
+   "where": "Remote",
+   "tags": [
+    "Social",
+    "Design",
+    "Brand"
+   ],
+   "cover": "img/content-01.webp",
+   "bg": "#fbf3a6",
+   "ink": "#2a1640",
+   "summary": "I gave Hit Club by IsaCu its very first social presence: the visual identity, the feed and every asset behind it. Today the account has 95.3K followers.",
+   "overview": "Hit Club is coach Isa Cu’s online training community. I created its social presence from zero: newsletters, posts, carousels, reel covers, banners and a full set of branded stickers. A fun, playful brand that let me experiment with bold, dynamic design and build a recognisable visual identity from the ground up.",
+   "stats": [
+    {
+     "v": 95.3,
+     "s": "K",
+     "d": 1,
+     "l": "Instagram followers today"
+    },
+    {
+     "v": 20,
+     "s": "M",
+     "l": "Content views"
+    },
+    {
+     "v": 30.8,
+     "s": "K",
+     "d": 1,
+     "l": "Newsletter & IG channel subscribers"
+    },
+    {
+     "v": 4.1,
+     "s": "K",
+     "d": 1,
+     "l": "TikTok following"
+    }
+   ],
+   "sections": [
+    {
+     "t": "The work I designed",
+     "layout": "show",
+     "items": [
+      {
+       "src": "img/hitclub-09.webp",
+       "t": "Educational carousels",
+       "d": "Swipe-through carousels turning training tips into bite-sized, on-brand slides."
+      },
+      {
+       "src": "img/hitclub-10.webp",
+       "t": "Feed posts",
+       "d": "Product drops, merch, coach spotlights and challenges, all in the same bold, high-energy system."
+      },
+      {
+       "src": "img/hitclub-11.webp",
+       "t": "Stories & promo assets",
+       "d": "Story formats and promos for the training programmes and merch."
+      },
+      {
+       "src": "img/hitclub-02.webp",
+       "t": "Typographic posts",
+       "d": "Motivational quote posts with a playful, retro-gradient type treatment."
+      },
+      {
+       "src": "img/hitclub-13.webp",
+       "t": "Branded sticker pack",
+       "d": "A custom sticker set for stories, merch and community content."
+      },
+      {
+       "src": "img/hitclub-12.webp",
+       "t": "Icon set",
+       "d": "Line icons used across highlights, stories and the newsletter."
+      }
+     ]
+    }
+   ],
+   "years": "2023 – 2024",
+   "phone": {
+    "img": "img/hit-ig-feed.webp",
+    "title": "@the_hit_club, live",
+    "text": "The account I launched, as it looks today: 567 posts, 95.3K followers and a community training in 70+ countries.",
+    "link": [
+     "Open on Instagram",
+     "https://www.instagram.com/the_hit_club/"
+    ]
+   }
+  },
+  {
+   "id": "pangaia",
+   "title": "PANGAIA",
+   "role": "Freelance Graphic Designer",
+   "where": "London, UK",
+   "tags": [
+    "Garment design",
+    "Brand identity",
+    "Hang tags & trims",
+    "Presentations"
+   ],
+   "cover": "img/content-02.webp",
+   "bg": "#0d0d0d",
+   "ink": "#f2f0ea",
+   "summary": "Bespoke garment mockups, trim design and client presentations for PANGAIA’s B2B collaborations with global brands.",
+   "overview": "Through “Powered by PANGAIA”, brands create custom collections on PANGAIA’s sustainable products. I design how each partner shows up: placing logos, colours and taglines onto garments, designing hang tags and woven labels, and building the client presentations in Photoshop and InDesign, always balancing the partner’s identity with PANGAIA’s sustainability values.",
+   "sections": [],
+   "years": "2023 – current",
+   "stats": [
+    {
+     "v": 125,
+     "s": "+",
+     "l": "Projects & brands designed for"
+    },
+    {
+     "v": 1,
+     "s": "M",
+     "l": "PANGAIA Instagram followers"
+    },
+    {
+     "v": 2023,
+     "raw": 1,
+     "l": "Working together since"
+    }
+   ],
+   "brands": [
+    {
+     "name": "Glioblastoma Research Organization",
+     "d": "A charity collection: line-art brain illustration, embroidery placements and recycled-paper hang tags.",
+     "items": [
+      "img/pangaia-00.webp",
+      "img/pangaia-01.webp",
+      "img/pangaia-02.webp",
+      "img/pangaia-03.webp",
+      "img/pangaia-04.webp"
+     ]
+    },
+    {
+     "name": "Coca-Cola",
+     "d": "Merch collection with colour-matched tags, bottle graphics and placement guides across hoodies, tees, crews and shorts.",
+     "items": [
+      "img/pangaia-05.webp",
+      "img/pangaia-06.webp",
+      "img/pangaia-07.webp",
+      "img/pangaia-08.webp",
+      "img/pangaia-09.webp",
+      "img/pangaia-10.webp"
+     ]
+    },
+    {
+     "name": "Joe & The Juice",
+     "d": "Pastel colourways, illustrated back prints and a full hang-tag system.",
+     "items": [
+      "img/pangaia-11.webp",
+      "img/pangaia-12.webp",
+      "img/pangaia-13.webp",
+      "img/pangaia-14.webp",
+      "img/pangaia-15.webp"
+     ]
+    },
+    {
+     "name": "Barry’s",
+     "d": "Athleisure range with chevron sleeve details for the fitness brand.",
+     "items": [
+      "img/pangaia-16.webp",
+      "img/pangaia-17.webp"
+     ]
+    },
+    {
+     "name": "Phia",
+     "d": "Embroidered wordmark sweatsets and the campaign presentation.",
+     "items": [
+      "img/pangaia-18.webp",
+      "img/pangaia-19.webp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moonbug",
+   "title": "Moonbug · Oddbods",
+   "role": "Social Media Management & Design",
+   "where": "London, UK",
+   "tags": [
+    "Social",
+    "Global",
+    "Graphic design",
+    "Budgeting",
+    "Reporting",
+    "Activations"
+   ],
+   "cover": "img/content-03.webp",
+   "bg": "#dff2ff",
+   "ink": "#13314a",
+   "summary": "Ran global social for Oddbods, Moonbug’s three-time Emmy-nominated franchise, from ideation to performance reporting.",
+   "overview": "I managed social media for Moonbug’s global franchise Oddbods, from content ideation and creation to publishing and performance reporting. That meant creative campaigns tailored to each platform, working with design and animation teams on assets, scheduling across multiple markets, and analysing performance to shape what came next. I worked closely with internal stakeholders to keep the brand consistent and used audience insight to drive engagement and growth.",
+   "sections": [
+    {
+     "t": "Posts I designed",
+     "layout": "show",
+     "items": [
+      {
+       "src": "img/moonbug-09.webp",
+       "t": "10M YouTube subscribers",
+       "d": "Milestone celebration post for the Oddbods channel, written and designed for Instagram."
+      },
+      {
+       "src": null,
+       "t": "Always-on feed",
+       "d": "Weekly posts for Oddbods and Minibods: episode promos, colouring pages, spot-the-difference games and activities.",
+       "grid": [
+        "img/moonbug-post1.webp",
+        "img/moonbug-post2.webp",
+        "img/moonbug-post3.webp",
+        "img/moonbug-post4.webp"
+       ]
+      }
+     ]
+    }
+   ],
+   "years": "2022 – 2023",
+   "phone": {
+    "img": "img/moonbug-phone.webp",
+    "mock": 1,
+    "title": "@oddbods_official",
+    "text": "The Oddbods Instagram I managed, as it looked during my time on the account."
+   },
+   "facts2": {
+    "t": "About the franchise",
+    "items": [
+     [
+      "3×",
+      "Emmy nominations"
+     ],
+     [
+      "180+",
+      "countries broadcasting Oddbods"
+     ],
+     [
+      "24B",
+      "views across digital platforms"
+     ],
+     [
+      "32M",
+      "YouTube subscribers"
+     ]
+    ],
+    "src": "Source: Moonbug Entertainment",
+    "others": [
+     "CoComelon",
+     "Blippi",
+     "Little Angel",
+     "Gecko’s Garage",
+     "Morphle",
+     "Oddbods"
+    ],
+    "art": [
+     "img/moonbug-06.webp",
+     "img/moonbug-05.webp"
+    ]
+   }
+  }
+ ],
+ "branding": [
+  {
+   "id": "la-isabella",
+   "title": "Estancia La Isabella",
+   "type": "Brand identity · Signage · Menus · Packaging",
+   "year": "2026",
+   "cover": "img/branding-00.webp",
+   "bg": "#f1e9d8",
+   "ink": "#433628",
+   "overview": "A gastronomic and events destination in Checa, Ecuador, inspired by the Argentine ritual of gathering around the fire and the freshness of Mediterranean cooking. I built the full identity: logo system and variations, colour palette, typography, iconography and applications across signage, menus, wine labels, food packaging and stickers, aiming for something contemporary, considered and premium.",
+   "sections": [
+    {
+     "t": "Identity system",
+     "layout": "grid2",
+     "items": [
+      "img/isabella-01.webp",
+      "img/isabella-02.webp",
+      "img/isabella-03.webp",
+      "img/isabella-04.webp",
+      "img/isabella-05.webp",
+      "img/isabella-06.webp",
+      "img/isabella-07.webp",
+      "img/isabella-08.webp",
+      "img/isabella-09.webp",
+      "img/isabella-10.webp",
+      "img/isabella-11.webp",
+      "img/isabella-12.webp"
+     ]
+    },
+    {
+     "t": "Applications",
+     "layout": "grid2",
+     "items": [
+      "img/isabella-13.webp",
+      "img/isabella-14.webp",
+      "img/isabella-15.webp",
+      "img/isabella-16.webp",
+      "img/isabella-17.webp",
+      "img/isabella-18.webp",
+      "img/isabella-19.webp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "amazon-on-the-move",
+   "title": "Amazon on the move",
+   "type": "Service concept · Campaign · Brand identity",
+   "cover": "img/branding-01.webp",
+   "bg": "#41635f",
+   "ink": "#eaf6f4",
+   "facts": [
+    [
+     "Problem",
+     "Pandemic home deliveries pushed up congestion and emissions, and London’s key workers were rarely home to receive their parcels."
+    ],
+    [
+     "Solution",
+     "A lower-emission delivery service with TfL and Amazon Lockers, delivering to tube stations instead of thousands of homes."
+    ],
+    [
+     "Audience",
+     "Key workers in London who rely on the Underground every day."
+    ]
+   ],
+   "overview": "A campaign concept and identity built around the London Underground: a user persona and journey map, activation and wayfinding posters, station lockers, digital touchpoints and social, all tied together by the tube-line motif in the logo.",
+   "sections": [
+    {
+     "t": "",
+     "layout": "full",
+     "items": [
+      {
+       "video": "vid/amazon.mp4",
+       "poster": "vid/amazon.jpg",
+       "cap": ""
+      }
+     ]
+    },
+    {
+     "t": "",
+     "layout": "grid2",
+     "items": [
+      "img/amazon-01.webp",
+      "img/amazon-02.webp",
+      "img/amazon-03.webp",
+      "img/amazon-04.webp",
+      "img/amazon-05.webp",
+      "img/amazon-06.webp",
+      "img/amazon-07.webp",
+      "img/amazon-08.webp",
+      "img/amazon-09.webp",
+      "img/amazon-10.webp",
+      "img/amazon-11.webp",
+      "img/amazon-12.webp",
+      "img/amazon-13.webp",
+      "img/amazon-14.webp",
+      "img/amazon-15.webp",
+      "img/amazon-16.webp",
+      "img/amazon-17.webp",
+      "img/amazon-18.webp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "flying-solo",
+   "title": "Flying Solo Magazine",
+   "type": "Branding · Editorial design",
+   "cover": "img/branding-02.webp",
+   "bg": "#0b0b0b",
+   "ink": "#f4f4f0",
+   "facts": [
+    [
+     "Objective",
+     "A magazine exploring solo travel and anxiety through personal stories and photography."
+    ],
+    [
+     "Method",
+     "Branding, editorial layout and a prototype based on my own solo trip to Argentina."
+    ],
+    [
+     "Result",
+     "A complete magazine prototype and an adaptable design system."
+    ]
+   ],
+   "overview": "Complete branding and editorial design for Flying Solo, an online and printed magazine about travel anxiety told through personal stories and photography. I built the identity, logo, colour palette and typography to hold both vulnerability and empowerment, with a system that adapts to different authors and photographic styles. The prototype features my own solo trip to Argentina, my photography and honest reflections.",
+   "sections": [
+    {
+     "t": "",
+     "layout": "grid3",
+     "items": [
+      {
+       "video": "vid/fs1.mp4",
+       "poster": "vid/fs1.jpg",
+       "cap": ""
+      },
+      {
+       "video": "vid/fs2.mp4",
+       "poster": "vid/fs2.jpg",
+       "cap": ""
+      },
+      {
+       "video": "vid/fs3.mp4",
+       "poster": "vid/fs3.jpg",
+       "cap": ""
+      }
+     ]
+    },
+    {
+     "t": "",
+     "layout": "grid2",
+     "items": [
+      "img/flying-00.webp",
+      "img/flying-01.webp",
+      "img/flying-02.webp",
+      "img/flying-03.webp",
+      "img/flying-04.webp",
+      "img/flying-05.webp",
+      "img/flying-06.webp",
+      "img/flying-07.webp",
+      "img/flying-08.webp",
+      "img/flying-10.webp",
+      "img/flying-11.webp",
+      "img/flying-12.webp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "helping-hand",
+   "title": "Helping Hand",
+   "type": "Community branding · App · Promo video",
+   "cover": "img/branding-04.webp",
+   "bg": "#15528c",
+   "ink": "#eef4fb",
+   "overview": "ISN Helping Hand is a community helping international students at Loughborough University settle into life in the UK. The first phase delivered the branding, an international fresher box and an app prototype; the second focused on promotion through an animated and live-footage video.",
+   "sections": [
+    {
+     "t": "",
+     "layout": "full",
+     "items": [
+      {
+       "video": "vid/helping.mp4",
+       "poster": "vid/helping.jpg",
+       "cap": ""
+      }
+     ]
+    },
+    {
+     "t": "",
+     "layout": "grid2",
+     "items": [
+      "img/helping-00.webp",
+      "img/helping-01.webp",
+      "img/helping-02.webp",
+      "img/helping-03.webp",
+      "img/helping-04.webp",
+      "img/helping-05.webp",
+      "img/helping-06.webp",
+      "img/helping-07.webp",
+      "img/helping-08.webp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a-flower-for-a-flower",
+   "title": "A flower for a flower",
+   "type": "Awareness campaign · Illustration · Packaging",
+   "cover": "img/branding-05.webp",
+   "bg": "#f4f2ee",
+   "ink": "#4a2340",
+   "overview": "AF4AF is an awareness campaign aimed at young women in the UK about female genital mutilation, built around the flower as a symbol. It pairs a visual social campaign with a tangible product, flower seed packets, whose cost is donated to the charity 28 Too Many.",
+   "sections": [
+    {
+     "t": "",
+     "layout": "grid2",
+     "items": [
+      "img/flower-00.webp",
+      "img/flower-01.webp",
+      "img/flower-02.webp",
+      "img/flower-03.webp",
+      "img/flower-04.webp",
+      "img/flower-05.webp",
+      "img/flower-06.webp",
+      "img/flower-07.webp",
+      "img/flower-08.webp",
+      "img/flower-09.webp",
+      "img/flower-10.webp",
+      "img/flower-11.webp",
+      "img/flower-12.webp",
+      "img/flower-13.webp",
+      "img/flower-14.webp",
+      "img/flower-15.webp",
+      "img/flower-16.webp",
+      "img/flower-17.webp",
+      "img/flower-18.webp",
+      "img/flower-19.webp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-mirror",
+   "title": "The Mirror",
+   "type": "Photography series",
+   "cover": "img/branding-06.webp",
+   "bg": "#111",
+   "ink": "#eee",
+   "overview": "look at yourself. look through yourself. what do you see? it’s you. it’s all of you.",
+   "sections": [
+    {
+     "t": "",
+     "layout": "grid2",
+     "items": [
+      "img/mirror-00.webp",
+      "img/mirror-01.webp",
+      "img/mirror-02.webp",
+      "img/mirror-03.webp",
+      "img/mirror-04.webp",
+      "img/mirror-05.webp",
+      "img/mirror-06.webp",
+      "img/mirror-07.webp",
+      "img/mirror-08.webp",
+      "img/mirror-09.webp",
+      "img/mirror-10.webp",
+      "img/mirror-11.webp",
+      "img/mirror-12.webp",
+      "img/mirror-13.webp"
+     ]
+    }
+   ]
+  }
+ ],
+ "photography": {
+  "cover": "img/home-03.webp",
+  "intro": "Product, landscape and portrait photography.",
+  "items": [
+   "img/photo-00.webp",
+   "img/photo-01.webp",
+   "img/photo-02.webp",
+   "img/photo-03.webp",
+   "img/photo-04.webp",
+   "img/photo-05.webp",
+   "img/photo-06.webp",
+   "img/photo-07.webp",
+   "img/photo-08.webp",
+   "img/photo-09.webp",
+   "img/photo-10.webp",
+   "img/photo-11.webp",
+   "img/photo-12.webp",
+   "img/photo-13.webp",
+   "img/photo-14.webp",
+   "img/photo-15.webp",
+   "img/photo-16.webp",
+   "img/photo-17.webp",
+   "img/photo-18.webp",
+   "img/photo-19.webp",
+   "img/photo-20.webp",
+   "img/photo-21.webp",
+   "img/photo-22.webp",
+   "img/photo-23.webp",
+   "img/photo-24.webp",
+   "img/photo-25.webp",
+   "img/photo-26.webp",
+   "img/photo-27.webp",
+   "img/photo-28.webp",
+   "img/photo-29.webp",
+   "img/photo-30.webp",
+   "img/photo-31.webp",
+   "img/photo-32.webp",
+   "img/photo-33.webp",
+   "img/photo-34.webp",
+   "img/photo-35.webp",
+   "img/photo-36.webp",
+   "img/photo-37.webp",
+   "img/photo-38.webp",
+   "img/photo-39.webp",
+   "img/photo-40.webp",
+   "img/photo-41.webp",
+   "img/photo-42.webp",
+   "img/photo-43.webp",
+   "img/photo-44.webp",
+   "img/photo-45.webp",
+   "img/photo-46.webp"
+  ]
+ },
+ "current": {
+  "label": "Current workplace",
+  "name": "Aphlora Wellness",
+  "link": "aphlora",
+  "cta": "View case study"
+ },
+ "workTitle": [
+  "Brands I have",
+  "worked with"
+ ],
+ "brandingTitle": [
+  "Branding & Editorial",
+  "Projects"
+ ]
+}
